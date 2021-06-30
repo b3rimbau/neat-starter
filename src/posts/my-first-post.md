@@ -10,7 +10,7 @@ tags:
   - center
   - right
 ---
-# This is a Heading h1
+# Where is this getting saved?
 
 ## This is a Heading h2
 
@@ -58,3 +58,8 @@ You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
 ## Inline code
 
 This web site is using `markedjs/marked`.
+
+## Tables?
+| Header 1 | Header 2
+|:---------| -------: |
+| some data | some more data |
